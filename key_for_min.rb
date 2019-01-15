@@ -3,5 +3,5 @@
 
 def key_for_min_value(name_hash)
   key_for_min_value.each do |names|
-    if 
+    if names == 
 end
